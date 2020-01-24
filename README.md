@@ -1,7 +1,11 @@
 # Music
-I worked on this side project all of my freshman year of college and a bit in the summer after.
-I wanted this to be a good representation of what I had learned throughout my first year of college.
-You can view/download the src files or download the Music Demo folder.
+This virtual keyboard side functions as a normal virtual keyboard but with unique features. Instead of limiting the user by their music theory knowledge, this app provides music theory shortcuts to help users play beyond the possible.
+
+## What does it do?
+The best way to learn what it can do is through my [YouTube Video](https://www.youtube.com/watch?v=GprFtaiREaA)
+[https://www.youtube.com/watch?v=GprFtaiREaA](https://www.youtube.com/watch?v=GprFtaiREaA)
+
+
 
 ## Music Demo folder
 This demo provides a JavaFX implementation of Instrument.java
@@ -18,22 +22,20 @@ My demo demonstrates the following
     
 ## What I Learned
 Here is a list of what skills I learned or improved throughout this project
-  - Read data from a *.csv file
-  - Interpret and parse data
+  - Parse and interpret commands
+  - Parallel programming (Multi-threading and Java Runnables)
+  - Playing music from a file is a lot like time based divisions in computer networks.
   - Take advantage of different data structures
-  - Basics to multi-threading
   - Design well structured data-types
   - Separate the logic from the graphics
-  - Unit test
-  - Importance of commenting and readability (although some of the more complex files still need work)
+  - Unit testing
+  - Importance of commenting and readability
   
 ## What's next?
-I want to focus on creating a different project. However, I do hope to eventually make the following improvements
-  - User experience:
-   - Modify Interpreter.java to be easier for the user. I recognize that it is currently too difficult to write a song *.csv file
-   - Modify Interpreter.java to accept instrument files from a path. This seems very easy to do and I'm excited to see it.
-   - Modify GUIDemo.java and the instrument.pane package
-   
-  - Clean up the code. This includes making it more readable and executing on the *//NOTE:* commentes I left myself.
-  - Possibly add more implementations of javafx.scene.layout.Pane
+While I want to continue to improve this application, I also want to explore creating other projects.
+In the future, I hope to...
+  - Implement AI to play music
+  - Add more instruments and notes
+  - Improve the graphics
+  - Add sheet music like graphics in front of the csv
   
