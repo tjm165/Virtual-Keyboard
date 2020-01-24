@@ -2,7 +2,7 @@
 This virtual keyboard side functions as a normal virtual keyboard but with unique features. Instead of limiting the user by their music theory knowledge, this app provides music theory shortcuts to help users play beyond the possible.
 
 ## What does it do?
-The best way to learn what it can do is through my [YouTube Video](https://www.youtube.com/watch?v=GprFtaiREaA)
+The best way to learn what it can do is through my [YouTube Video](https://www.youtube.com/watch?v=GprFtaiREaA).
 [https://www.youtube.com/watch?v=GprFtaiREaA](https://www.youtube.com/watch?v=GprFtaiREaA)
 
 
